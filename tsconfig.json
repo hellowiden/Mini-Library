@@ -1,0 +1,16 @@
+{
+  // TypeScript compiler options
+  "compilerOptions": {
+    // Target ECMAScript 2015 (ES6)
+    "target": "ES6",
+
+    // Output directory for compiled JavaScript files
+    "outDir": "./dist",
+
+    // Root directory for TypeScript source files
+    "rootDir": "./src",
+
+    // Enable strict type checking
+    "strict": true
+  }
+}
